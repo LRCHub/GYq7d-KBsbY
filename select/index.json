@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "DARK ARIA <LV2>",
+  "base_artist": "SawanoHiroyuki[nZk]",
+  "createdAt": "2026-01-14T02:11:22.334318Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DARK ARIA <LV2>",
+      "artist": "SawanoHiroyuki[nZk] feat. XAI",
+      "has_synced": true,
+      "path": "select/01_DARK_ARIA__LV2_SawanoHiroyuki[nZk]_feat._XAI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "DARK ARIA <LV2>",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/02_DARK_ARIA__LV2_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DARK ARIA <LV2>",
+      "artist": "SawanoHiroyuki[nZk]:XAI",
+      "has_synced": true,
+      "path": "select/03_DARK_ARIA__LV2_SawanoHiroyuki[nZk]_XAI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dark Aria <Lv2> (Solo Leveling Hardstyle)",
+      "artist": "ANIZYZ & AniLifts",
+      "has_synced": false,
+      "path": "select/04_Dark_Aria__Lv2__(Solo_Leveling_Hardstyle)_ANIZYZ_&_AniLifts.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "DARK ARIA <LV2> (feat. XAI)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/05_DARK_ARIA__LV2__(feat._XAI)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "DARK ARIA <LV2>",
+      "artist": "SawanoHiroyuki[nZk], XAI",
+      "has_synced": true,
+      "path": "select/06_DARK_ARIA__LV2_SawanoHiroyuki[nZk],_XAI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "DARK ARIA <LV2> (feat. XAI)",
+      "artist": "Sawano Hiroyuki",
+      "has_synced": true,
+      "path": "select/07_DARK_ARIA__LV2__(feat._XAI)_Sawano_Hiroyuki.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "DARK ARIA <LV2> (feat. XAI)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/08_DARK_ARIA__LV2__(feat._XAI)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "DARK ARIA <LV2> (cu XAI)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/09_DARK_ARIA__LV2__(cu_XAI)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ANIZYZ x Maul - DARK ARIA LV2 (Solo Leveling Hardstyle Remix)",
+      "artist": "ANIZYZ",
+      "has_synced": false,
+      "path": "select/10_ANIZYZ_x_Maul_-_DARK_ARIA_LV2_(Solo_Leveling_Hardstyle_Remix)_ANIZYZ.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "DARK ARIA <LV2> (feat. XAI)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/11_DARK_ARIA__LV2__(feat._XAI)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "DARK ARIA <LV2>",
+      "artist": "SawanoHiroyuki; Xai",
+      "has_synced": true,
+      "path": "select/12_DARK_ARIA__LV2_SawanoHiroyuki;_Xai.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "DARK ARIA <LV2> (con XAI)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/13_DARK_ARIA__LV2__(con_XAI)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "dark aria lv2",
+      "artist": "sawanohiroyukinzk",
+      "has_synced": true,
+      "path": "select/14_dark_aria_lv2_sawanohiroyukinzk.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "DARK ARIA <LV2>",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/15_DARK_ARIA__LV2_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "DARK ARIA <LV2>",
+      "artist": "SawanoHiroyuki[nZk]:XAI",
+      "has_synced": true,
+      "path": "select/16_DARK_ARIA__LV2_SawanoHiroyuki[nZk]_XAI.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "DARK ARIA <LV2> (feat. XAI)",
+      "artist": "Hiroyuki Sawano",
+      "has_synced": true,
+      "path": "select/17_DARK_ARIA__LV2__(feat._XAI)_Hiroyuki_Sawano.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "DARK ARIA <LV2> (Solo Leveling Hardstyle)",
+      "artist": "ANIZYZ",
+      "has_synced": false,
+      "path": "select/18_DARK_ARIA__LV2__(Solo_Leveling_Hardstyle)_ANIZYZ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DARK ARIA <LV2>",
+      "artist": "SawanoHiroyuki[nZk], XAI",
+      "has_synced": false,
+      "path": "select/pl_01_DARK_ARIA__LV2_SawanoHiroyuki[nZk],_XAI.txt"
+    }
+  ]
+}
